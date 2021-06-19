@@ -1,9 +1,0 @@
-{
-  "manifest_version": 2,
-  "name": "OnDeviceHeadSuggestPTBR500000",
-  "version": "20210613.379707716",
-  "imageName": "image.squash",
-  "squash": true,
-  "fsType": "squashfs",
-  "isRemovable": false
-}
